@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicRest", "DynamicRest\DynamicRest.csproj", "{BE4DBE64-5C5E-447A-BE2A-C2A4465CF5D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4DBE64-5C5E-447A-BE2A-C2A4465CF5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4DBE64-5C5E-447A-BE2A-C2A4465CF5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4DBE64-5C5E-447A-BE2A-C2A4465CF5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4DBE64-5C5E-447A-BE2A-C2A4465CF5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C0FA4A-66A7-499C-BD8C-3806112A84C8}
+	EndGlobalSection
+EndGlobal
